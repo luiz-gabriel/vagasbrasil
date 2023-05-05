@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/https://vagasbrasil.pages.dev/sitemap.xml
+Sitemap: https://vagasbrasil.pages.dev/sitemap.xml
