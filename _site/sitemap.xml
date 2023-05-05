@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/mediumish-theme-jekyll/vagas-abertas-123-milhas/</loc>
+<lastmod>2023-05-04T00:00:00-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/mediumish-theme-jekyll/vagas-de-estagio-trf-5-em-Pernambuco-PE/</loc>
+<lastmod>2023-05-04T00:00:00-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/mediumish-theme-jekyll/about</loc>
+</url>
+<url>
+<loc>http://localhost:4000/mediumish-theme-jekyll/categories</loc>
+</url>
+<url>
+<loc>http://localhost:4000/mediumish-theme-jekyll/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/mediumish-theme-jekyll/tags</loc>
+</url>
+<url>
+<loc>http://localhost:4000/mediumish-theme-jekyll/category/vagas-de-est%C3%A1gio/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/mediumish-theme-jekyll/category/est%C3%A1gio/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/mediumish-theme-jekyll/category/pernambuco/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/mediumish-theme-jekyll/category/pe/</loc>
+</url>
+</urlset>

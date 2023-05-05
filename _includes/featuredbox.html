@@ -1,0 +1,35 @@
+<!-- begin post -->
+{% assign author = site.authors[post.author] %}
+<div class="col-md-5 mb-30px">
+    <div class="listfeaturedtag h-100">
+        <div class="row h-100">
+            
+            <div class="col-12 col-md-12 col-lg-7">
+                <div class="h-100 card-group">
+                    <div class="card">
+                        <div class="card-body">
+                            <h2 class="card-title">
+                                <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                            </h2>
+
+                            <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:25 }}</h4>
+                            <button style="background: none; border: none; padding: 0; font-size: 1.3em;"><a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">Ler Mais</a></button>
+                        </div>
+                        <div class="card-footer b-0 bg-white mt-auto">
+                            <div class="wrapfooter">
+                                {% if post.author %}
+                                <span class="meta-footer-thumb">
+                                    <span class="post-date">{{ post.date | date_to_string }}</span>
+                                {% endif %}
+                                </span>
+                                
+                                <div class="clearfix"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
