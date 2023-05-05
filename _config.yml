@@ -4,7 +4,7 @@ title: "vagasbrasil"
 description: "Blog com intuito de divulgar vagas de forma acessivel"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: https://vagasbrasil.pages.dev/
+baseurl: https://vagasbrasil.pages.dev
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 include: ["_pages"]

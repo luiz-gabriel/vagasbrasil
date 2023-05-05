@@ -2,7 +2,7 @@
 layout: post
 title:  "Várias vagas estão abertas na 123 Milhas em Minas Gerais. Venha conferir!"
 author: Luiz
-categories: [ vagas de estágio, estágio, Pernambuco, PE]
+categories: [ 123 Milhas, Emprego, Minas Gerais, MG]
 description: "A 123 Milhas está com muitas vagas abertas em Minas Gerais. Algumas das Vagas são para UI/UX."
 featured: true
 hidden: true
