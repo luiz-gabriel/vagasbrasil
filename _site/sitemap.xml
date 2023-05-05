@@ -1,64 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>http://localhost:4000/https://vagasbrasil.pages.dev/vagas-abertas-123-milhas/</loc>
-<lastmod>2023-05-04T00:00:00-03:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/https://vagasbrasil.pages.dev/vagas-de-estagio-trf-5-em-Pernambuco-PE/</loc>
-<lastmod>2023-05-04T00:00:00-03:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/https://vagasbrasil.pages.dev/concurso-Fhemig-2023/</loc>
-<lastmod>2023-05-05T00:00:00-03:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/https://vagasbrasil.pages.dev/sobre-prova-analista-medico-enfermagem/</loc>
-<lastmod>2023-05-05T00:00:00-03:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/https://vagasbrasil.pages.dev/about</loc>
-</url>
-<url>
-<loc>http://localhost:4000/https://vagasbrasil.pages.dev/categories</loc>
-</url>
-<url>
-<loc>http://localhost:4000/https://vagasbrasil.pages.dev/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/https://vagasbrasil.pages.dev/tags</loc>
-</url>
-<url>
-<loc>http://localhost:4000/https://vagasbrasil.pages.dev/category/123-milhas/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/https://vagasbrasil.pages.dev/category/emprego/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/https://vagasbrasil.pages.dev/category/minas-gerais/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/https://vagasbrasil.pages.dev/category/mg/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/https://vagasbrasil.pages.dev/category/vagas-de-est%C3%A1gio/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/https://vagasbrasil.pages.dev/category/est%C3%A1gio/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/https://vagasbrasil.pages.dev/category/pernambuco/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/https://vagasbrasil.pages.dev/category/pe/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/https://vagasbrasil.pages.dev/category/fhemig/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/https://vagasbrasil.pages.dev/category/concurso-publico/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/https://vagasbrasil.pages.dev/category/medico/</loc>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+        
+    <url>
+      <loc>http://localhost:4000/sobre-prova-analista-medico-enfermagem/</loc>
+      <lastmod>2023-05-05T00:00:00-03:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>http://localhost:4000/concurso-Fhemig-2023/</loc>
+      <lastmod>2023-05-05T00:00:00-03:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>http://localhost:4000/vagas-de-estagio-trf-5-em-Pernambuco-PE/</loc>
+      <lastmod>2023-05-04T00:00:00-03:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>http://localhost:4000/vagas-abertas-123-milhas/</loc>
+      <lastmod>2023-05-04T00:00:00-03:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
 </urlset>
