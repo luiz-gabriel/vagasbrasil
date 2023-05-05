@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "Concurso Público com mais de 1800 vagas e salários acima de 1800R$"
 author: Luiz
 categories: [ Fhemig, Emprego, Minas Gerais, MG, Concurso Publico, Medico]
 description: "Saiba mais sobre a prova para Analista, Médico e Enfermagem para o concurso da Fhemig."
