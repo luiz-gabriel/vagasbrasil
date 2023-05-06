@@ -121,9 +121,9 @@ jQuery(document).ready(function($){
 // 	document.body.appendChild(replacement);
 // 	addStylesNode.parentElement.removeChild(addStylesNode);
 // };
-var raf = window.requestAnimationFrame || window.mozRequestAnimationFrame ||
-	window.webkitRequestAnimationFrame || window.msRequestAnimationFrame;
-if (raf) raf(function () {
-	window.setTimeout(loadDeferredStyles, 0);
-});
-else window.addEventListener('load', loadDeferredStyles);
+// var raf = window.requestAnimationFrame || window.mozRequestAnimationFrame ||
+// 	window.webkitRequestAnimationFrame || window.msRequestAnimationFrame;
+// if (raf) raf(function () {
+// 	window.setTimeout(loadDeferredStyles, 0);
+// });
+// else window.addEventListener('load', loadDeferredStyles);
