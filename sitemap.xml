@@ -9,39 +9,33 @@ layout: null
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-
 <url>
-  <loc>https://vagasbrasil.pages.dev/</loc>
-  <lastmod>2023-05-07T21:01:44+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://vagasbrasil.pages.dev/about</loc>
+  <loc>/about</loc>
   <lastmod>2023-05-07T21:01:44+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://vagasbrasil.pages.dev/sobre-prova-analista-medico-enfermagem/</loc>
+  <loc>/sobre-prova-analista-medico-enfermagem/</loc>
   <lastmod>2023-05-07T21:01:44+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://vagasbrasil.pages.dev/concurso-Fhemig-2023/</loc>
+  <loc>/concurso-Fhemig-2023/</loc>
   <lastmod>2023-05-07T21:01:44+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://vagasbrasil.pages.dev/vagas-de-estagio-trf-5-em-Pernambuco-PE/</loc>
+  <loc>/vagas-de-estagio-trf-5-em-Pernambuco-PE/</loc>
   <lastmod>2023-05-07T21:01:44+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://vagasbrasil.pages.dev/vagas-abertas-123-milhas/</loc>
+  <loc>/vagas-abertas-123-milhas/</loc>
   <lastmod>2023-05-07T21:01:44+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://vagasbrasil.pages.dev/categories</loc>
+  <loc>/categories</loc>
   <lastmod>2023-05-07T21:01:44+00:00</lastmod>
   <priority>0.64</priority>
 </url>
